@@ -35,7 +35,10 @@ Data: Dummy data in Excel/CSV (industry-simulated)
 Feedback & Contributions Open to feedback, suggestions, and collaborations!
 
 Dashboard Preview
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1445" height="809" alt="image" src="https://github.com/user-attachments/assets/a29eb197-0e27-478c-ba18-b414e0a0886d" />
+<img width="1454" height="810" alt="image" src="https://github.com/user-attachments/assets/f1486ba1-bb96-418c-846e-6cdbf155b4ba" />
+
+
+
 
 
