@@ -1,4 +1,4 @@
-India Tourism Dashboard – Power BI Project
+**India Tourism Dashboard – Power BI Project**
 
 An interactive, insight-driven Power BI dashboard built using tourism data across Indian states. This project helps visualize trends in tourist visits, purpose of travel, revenue generation, state performance, and more — offering decision-makers a 360° view of India's tourism sector.
 
